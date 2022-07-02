@@ -12,7 +12,7 @@
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 - 联系到我：
 [![WeChat](https://img.shields.io/badge/-WeChat-fff?style=plastic&logo=wechat&logoColor=#07C160)](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)
-[![TikTok](https://img.shields.io/badge/-TikTok-fff?style=plastic&logo=tiktok&logoColor=#000)]([https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
+[![TikTok](https://img.shields.io/badge/-TikTok-000?style=plastic&logo=tiktok&logoColor=#000)](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
 ![Gmail Badge](https://img.shields.io/badge/-2020110272@mail.scuec.edu.cn-008B26?style=plastic&logo=Gmail&logoColor=white)
 
 💪 正在学习: 
