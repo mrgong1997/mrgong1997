@@ -23,6 +23,8 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-5AAA46?style=flat-square&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
+
 🧠 计划学习:
 
 &emsp;&emsp;
@@ -30,8 +32,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-1572B6?style=flat-square&logo=React)
 ![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
 
 🧰 常用的工具:
 
