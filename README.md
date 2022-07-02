@@ -15,7 +15,6 @@
 [![TikTok](https://img.shields.io/badge/-TikTok-000?style=plastic&logo=tiktok&logoColor=fff)](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
 - 联系到我：
 ![Gmail Badge](https://img.shields.io/badge/-1163339053@qq.com-0C90DC?style=plastic&logo=Gmail&logoColor=white)
-![Gmail Badge](https://img.shields.io/badge/-2020110272@mail.scuec.edu.cn-008B26?style=plastic&logo=Gmail&logoColor=white)
 
 💪 正在学习: 
 
