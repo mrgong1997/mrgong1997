@@ -4,8 +4,7 @@
 
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- 📫 How to reach me:
 - [简历](https://mrgong1997.github.io/resume/)
 - [个人网站](https://mrgong1997.github.io/)
 - [前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)
