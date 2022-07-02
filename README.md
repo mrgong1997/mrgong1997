@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- :orange_book: 计算机在读研究生
-- 📫 How to reach me:
-- [简历](https://mrgong1997.github.io/resume/)
+orange_book: 计算机在读研究生
+📫 How to reach me:
+- [个人简历](https://mrgong1997.github.io/resume/)
 - [个人网站](https://mrgong1997.github.io/)
 - [前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)
 - [LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
