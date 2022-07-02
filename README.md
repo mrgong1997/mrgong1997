@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-orange_book: 计算机在读研究生
+ orange_book: 计算机在读研究生  
 📫 How to reach me:
 - [个人简历](https://mrgong1997.github.io/resume/)
 - [个人网站](https://mrgong1997.github.io/)
