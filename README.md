@@ -23,29 +23,29 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/zh/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-5AAA46?style=flat-square&logo=Node.js&logoColor=white)](http://nodejs.cn/)
 [![mongodb](https://img.shields.io/badge/-mongodb-000?style=flat-square&logo=mongodb&logoColor=#47A248)](https://www.mongodb.com/zh-cn)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 
 🧠 计划学习:
 
 &emsp;&emsp;
-[![Flutter](https://img.shields.io/badge/-Flutter-7BDEF9?style=flat-square&logo=Flutter&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/-React%20Native-1572B6?style=flat-square&logo=React)]()
-[![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)]()
-[![webpack](https://img.shields.io/badge/-webpack-7BDEF9?style=flat-square&logo=webpack&logoColor=white)]()
-![android](https://img.shields.io/badge/android-A4C439?style=flat-square&logo=android&logoColor=fff)
-![ios](https://img.shields.io/badge/ios-888888?style=flat-square&logo=apple&logoColor=FFF)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/-Flutter-7BDEF9?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/-React%20Native-1572B6?style=flat-square&logo=React)](https://www.reactnative.cn/)
+[![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)](https://www.electronjs.org/)
+[![webpack](https://img.shields.io/badge/-webpack-7BDEF9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.docschina.org/)
+[![android](https://img.shields.io/badge/android-A4C439?style=flat-square&logo=android&logoColor=fff)](https://developer.android.com/)
+[![ios](https://img.shields.io/badge/ios-888888?style=flat-square&logo=apple&logoColor=FFF)](https://developer.apple.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass.bootcss.com/)
 
 🧰 常用的工具:
 
 &emsp;&emsp;
-[![Google Chrome](https://img.shields.io/badge/Chrome-279646?style=flat-square&logo=GoogleChrome&logoColor=white)]()
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)]()
-[![XMind](https://img.shields.io/badge/-XMind-EA390D?style=flat-square&logo=Xamarin&logoColor=white)]()
-[![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]()
+[![Google Chrome](https://img.shields.io/badge/Chrome-279646?style=flat-square&logo=GoogleChrome&logoColor=white)](https://www.google.cn/chrome/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)](https://code.visualstudio.com/)
+[![XMind](https://img.shields.io/badge/-XMind-EA390D?style=flat-square&logo=Xamarin&logoColor=white)](https://www.xmind.cn/)
+[![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
 
 <!--
 **mrgong1997/mrgong1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
