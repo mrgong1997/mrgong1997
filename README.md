@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 
 🧠 计划学习:
 
