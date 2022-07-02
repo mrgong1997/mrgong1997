@@ -33,7 +33,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-7BDEF9?style=flat-square&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-1572B6?style=flat-square&logo=React)
 ![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)
-![android](https://img.shields.io/badge/android-888888?style=flat-square&logo=android&logoColor=#3DDC84)
+![android](https://img.shields.io/badge/android-A4C439?style=flat-square&logo=android&logoColor=fff)
 ![ios](https://img.shields.io/badge/ios-888888?style=flat-square&logo=apple&logoColor=FFF)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
