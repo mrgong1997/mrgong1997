@@ -25,7 +25,8 @@
 [![mongodb](https://img.shields.io/badge/-mongodb-000?style=flat-square&logo=mongodb&logoColor=#47A248)](https://www.mongodb.com/zh-cn)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> -->
+<img align="right" src="https://raw.githubusercontent.com/mrgong1997/github-stats-transparent/output/generated/languages.svg" />
 
 🧠 计划学习:
 
