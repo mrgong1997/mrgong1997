@@ -2,7 +2,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=e3ecf5&title_color=D99C63&text_color=7b243f&icon_color=1E705D"/> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=f0cfc0&text_color=8e3723&title_color=c87b49&icon_color=8c6e64"/> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=bac2d3&text_color=d25640&title_color=e9754c&icon_color=3b5673"/> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=fbfbf2&text_color=940d14&title_color=d99c63&icon_color=d7a3a1"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=69A25D&text_color=E33A3D&title_color=fff&icon_color=C36039"/>
 
 ### Hi there 👋
 
