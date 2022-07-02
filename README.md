@@ -11,8 +11,8 @@
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
 - 个人账号：
 [![WeChat](https://img.shields.io/badge/-WeChat-fff?style=plastic&logo=wechat&logoColor=#07C160)](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)
-[![TikTok](https://img.shields.io/badge/-TikTok-000?style=plastic&logo=tiktok&logoColor=fff)](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
 [![juejin](https://img.shields.io/badge/-稀土掘金-fff?style=plastic&logo=acclaim&logoColor=519CFB)](https://juejin.cn/user/2731625054472503)
+[![TikTok](https://img.shields.io/badge/-TikTok-000?style=plastic&logo=tiktok&logoColor=fff)](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
 - 联系到我：
 ![Gmail Badge](https://img.shields.io/badge/-1163339053@qq.com-0C90DC?style=plastic&logo=Gmail&logoColor=white)
 ![Gmail Badge](https://img.shields.io/badge/-2020110272@mail.scuec.edu.cn-008B26?style=plastic&logo=Gmail&logoColor=white)
