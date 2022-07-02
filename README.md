@@ -34,8 +34,8 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-7BDEF9?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![React Native](https://img.shields.io/badge/-React%20Native-1572B6?style=flat-square&logo=React)](https://www.reactnative.cn/)
 [![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)](https://www.electronjs.org/)
-[![android](https://img.shields.io/badge/android-A4C439?style=flat-square&logo=android&logoColor=fff)](https://developer.android.com/)
-[![ios](https://img.shields.io/badge/ios-888888?style=flat-square&logo=apple&logoColor=FFF)](https://developer.apple.com/)
+[![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://webpack.docschina.org/)
+[![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)](https://cn.vitejs.dev/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass.bootcss.com/)
 
 🧰 常用的工具:
