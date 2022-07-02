@@ -11,6 +11,8 @@
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
+
 💪 正在学习: 
 
 &emsp;&emsp;
@@ -40,8 +42,6 @@
 ![XMind](https://img.shields.io/badge/-XMind-EA390D?style=flat-square&logo=Xamarin&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
 
 <!--
 **mrgong1997/mrgong1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
