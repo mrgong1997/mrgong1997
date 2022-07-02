@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=gruvbox_light&show_icons=true&hide_title=true&hide=prs"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=gruvbox_light&show_icons=true&hide=prs"/>
 
 ### Hi there 👋
 
