@@ -20,6 +20,8 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-5AAA46?style=flat-square&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+
 🧠 计划学习:
 
 &emsp;&emsp;
@@ -35,6 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 
 <!--
 **mrgong1997/mrgong1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
