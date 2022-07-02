@@ -12,7 +12,7 @@
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 - 联系到我：
 ![Gmail Badge](https://img.shields.io/badge/-2020110272@mail.scuec.edu.cn-008B26?style=plastic&logo=Gmail&logoColor=white)
-![qq](https://img.shields.io/badge/-1163339053-008B26?style=plastic&logo=tencentqq&logoColor=EB1923)
+![qq](https://img.shields.io/badge/-1163339053-fff?style=plastic&logo=tencentqq&logoColor=EB1923)
 
 💪 正在学习: 
 
