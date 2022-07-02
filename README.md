@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-:orange_book: 中南民族大学计算机应用技术在读研究生，前端爱好者.  
-📫 目前已上线:
+:orange_book: 中南民族大学计算机应用技术在读研究生，前端爱好者.    
+
 - 了解我：[个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-white?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
