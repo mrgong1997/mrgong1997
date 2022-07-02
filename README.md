@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-:orange_book: 中南民族大学计算机应用技术专业，研究生在读，前端爱好者.    
+:orange_book: 中南民族大学计算机应用技术专业，硕士在读，前端爱好者.    
 
 - 了解我：[个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
