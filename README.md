@@ -38,7 +38,7 @@
 [![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)](https://www.electronjs.org/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass.bootcss.com/)
 
-🧰 常用的工具:
+🧰 常用工具:
 
 &emsp;&emsp;
 [![Google Chrome](https://img.shields.io/badge/Chrome-279646?style=flat-square&logo=GoogleChrome&logoColor=white)](https://www.google.cn/chrome/)
