@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics:&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=fdbfdc&title_color=0044cf&text_color=FFF&icon_color=348669"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics:&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=fdbfdc&title_color=FFF&text_color=0044cf&icon_color=348669"/>
 
 ### Hi there 👋
 
