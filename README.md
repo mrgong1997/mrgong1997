@@ -26,7 +26,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DE1F?style=flat-square&logo=javascript&logoColor=white)](https://es6.ruanyifeng.com/)
-[![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=React&logoColor=61DAFB)](https://zh-hans.reactjs.org/)
+[![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=React&logoColor=61DAFB)](https://zh-hans.reactjs.org/)
 [![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://v3.cn.vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/zh/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-5AAA46?style=flat-square&logo=Node.js&logoColor=white)](http://nodejs.cn/)
