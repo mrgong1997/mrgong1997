@@ -11,8 +11,6 @@
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
-
 💪 正在学习: 
 
 &emsp;&emsp;
@@ -33,6 +31,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
 
 🧰 常用的工具:
 
