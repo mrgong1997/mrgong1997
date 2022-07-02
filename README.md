@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=gruvbox_light&show_icons=true&hide_title=true"/>
 
 ### Hi there 👋
 
@@ -28,7 +28,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-2F3241?style=flat-square&logo=Electron&logoColor=9FEAF9)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
 
 🧰 常用的工具:
 
