@@ -7,7 +7,7 @@
 
 :orange_book: 计算机应用技术专业在读硕士，前端爱好者.    
 
-- 了解我：[个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
+- 欢迎访问：[个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 - 联系到我：<a href="mailto: osmandurdag@hotmail.com">2020110272@mail.scuec.edu.cn</a>
