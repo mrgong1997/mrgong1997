@@ -42,7 +42,7 @@
 
 &emsp;&emsp;
 [![Google Chrome](https://img.shields.io/badge/Chrome-279646?style=flat-square&logo=GoogleChrome&logoColor=white)](https://www.google.cn/chrome/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)](https://code.visualstudio.com/)
 [![XMind](https://img.shields.io/badge/-XMind-EA390D?style=flat-square&logo=Xamarin&logoColor=white)](https://www.xmind.cn/)
 [![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
