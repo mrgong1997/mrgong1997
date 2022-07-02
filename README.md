@@ -35,7 +35,7 @@
 &emsp;&emsp;
 ![Google Chrome](https://img.shields.io/badge/Chrome-279646?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Pycharm](https://img.shields.io/badge/-Pycharm-98F52E?style=flat-square&logo=PyCharm&logoColor=000000)
+![XMind](https://img.shields.io/badge/-XMind-EA390D?style=flat-square&logo=Xamarin&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
