@@ -7,6 +7,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=f0cfc0&text_color=8e3723&title_color=c87b49&icon_color=8c6e64"/> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=bac2d3&text_color=d25640&title_color=e9754c&icon_color=3b5673"/> -->
 
+
 :orange_book: 计算机应用技术专业在读硕士，前端爱好者.    
 
 - 欢迎访问：[个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
@@ -18,7 +19,7 @@
 [![juejin](https://img.shields.io/badge/-稀土掘金-fff?style=plastic&logo=acclaim&logoColor=519CFB)](https://juejin.cn/user/2731625054472503)
 [![TikTok](https://img.shields.io/badge/-TikTok-000?style=plastic&logo=tiktok&logoColor=fff)](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
 - 联系到我：
-![Gmail Badge](https://img.shields.io/badge/-1163339053@qq.com-7FC925?style=plastic&logo=Gmail&logoColor=white)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&custom_title=Languages  :&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+![Gmail Badge](https://img.shields.io/badge/-1163339053@qq.com-7FC925?style=plastic&logo=Gmail&logoColor=white)
 
 💪 正在学习: 
 
@@ -32,6 +33,8 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-5AAA46?style=flat-square&logo=Node.js&logoColor=white)](http://nodejs.cn/)
 [![mongodb](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)](https://www.mongodb.com/zh-cn)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&custom_title=Languages  :&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 
 🧠 计划学习:
 
