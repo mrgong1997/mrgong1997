@@ -21,6 +21,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-355463?style=flat-square&logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-5AAA46?style=flat-square&logo=Node.js&logoColor=white)
+![mongodb](https://img.shields.io/badge/-mongodb-#47A248?style=flat-square&logo=mongodb&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgong1997&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&theme=graywhite" />
