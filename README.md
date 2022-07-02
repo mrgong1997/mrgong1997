@@ -4,12 +4,9 @@
 
  :orange_book: 计算机研究生在读  
 📫 目前已上线:
-- [个人简历](https://mrgong1997.github.io/resume/)
-- [个人网站](https://mrgong1997.github.io/)
-- [前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)
-- [LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
-- [微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)
-- [掘金](https://juejin.cn/user/2731625054472503)
+- [个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
+- [前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
+- [微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 
 <!--
 **mrgong1997/mrgong1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
