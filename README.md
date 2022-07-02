@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=D9E4B0&title_color=D99C63&text_color=DC3512&icon_color=1E705D"/> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=e3ecf5&title_color=D99C63&text_color=7b243f&icon_color=1E705D"/> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=C9A49B&text_color=9D0E0E&title_color=fff&icon_color=794e47"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=a2b9d0&text_color=9D0E0E&title_color=fff&icon_color=794e47"/>
 
 ### Hi there 👋
 
