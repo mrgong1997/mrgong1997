@@ -11,8 +11,8 @@
 - 在线笔记：[前端 Q&A 系列](https://mrgong1997.github.io/Q-A/#/)、[LeetCode 系列](https://mrgong1997.github.io/LeetCode/#/)
 - 个人账号：[微信号](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)、[掘金](https://juejin.cn/user/2731625054472503)
 - 联系到我：
-![Gmail Badge](https://img.shields.io/badge/-2020110272@mail.scuec.edu.cn-008B26?style=plastic&logo=Gmail&logoColor=white)
 [![WeChat](https://img.shields.io/badge/-WeChat-fff?style=plastic&logo=wechat&logoColor=#07C160)](https://raw.githubusercontent.com/mrgong1997/CDN/master/imgs/wechat.jpg)
+![Gmail Badge](https://img.shields.io/badge/-2020110272@mail.scuec.edu.cn-008B26?style=plastic&logo=Gmail&logoColor=white)
 
 💪 正在学习: 
 
