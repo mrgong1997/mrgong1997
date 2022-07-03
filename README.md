@@ -18,7 +18,7 @@
 [![juejin](https://img.shields.io/badge/-稀土掘金-fff?style=plastic&logo=acclaim&logoColor=519CFB)](https://juejin.cn/user/2731625054472503)
 [![TikTok](https://img.shields.io/badge/-TikTok-000?style=plastic&logo=tiktok&logoColor=fff)](https://www.douyin.com/user/MS4wLjABAAAASp-DMIoEY88dZiabRR6Mdm18JLWVIY1-HpY0pYZg85w)
 - 联系到我：
-![Gmail Badge](https://img.shields.io/badge/-1163339053@qq.com-7FC925?style=plastic&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-1163339053@qq.com-279CDF?style=plastic&logo=Gmail&logoColor=white)
 
 💪 正在学习: 
 
