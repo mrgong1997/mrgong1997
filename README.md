@@ -8,7 +8,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrgong1997&theme=onedark&custom_title=Statistics  :&include_all_commits=true&cache_seconds=1800&show_icons=true&hide=prs&border_radius=10px&bg_color=bac2d3&text_color=d25640&title_color=e9754c&icon_color=3b5673"/> -->
 
 
-:orange_book: 大家好，我是小龚同学！中南民族大学计算机应用技术专业，在读研究生，前端爱好者.    
+😄: 大家好，我是小龚同学！目前就读于中南民族大学计算机应用技术专业，在读研究生，前端爱好者.    
 
 - 欢迎访问：[个人简历](https://mrgong1997.github.io/resume/)、[个人网站](https://mrgong1997.github.io/)
 
